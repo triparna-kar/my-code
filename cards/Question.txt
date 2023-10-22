@@ -1,4 +1,0 @@
-1. Construct a deck of cards: 52 total, A,2,3,4,5,6,7,8,9,10,J,Q,K for Space, Diamond, Heart, Club
-2. Shuffle cards randomly. Implement an algorithm of your choice, but not using existing sort functions, to sort cards to sort cards by suit and rank (same suit stack together).
-3. In a game of Black Jack, one on one with dealer. Suppose dealer got only 2 cards (one is Club K, the other one unknown. Dealer won't get any more cards).
-	a. You get Club 6 and Spade J
